@@ -17,7 +17,7 @@ public class Menu {
 
     private void cargarProductos() {
         catalogo.add(new Producto(1, "Gaseosa", 11.00));
-        catalogo.add(new Producto(2, "Fideos", 5.50));
+        catalogo.add(new Producto(2, "Fideos", 5.00));
         catalogo.add(new Producto(3, "Café", 15.00));
         catalogo.add(new Producto(4, "Queso", 35.00));
         catalogo.add(new Producto(5, "Pollo", 16.00));

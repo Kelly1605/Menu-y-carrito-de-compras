@@ -24,5 +24,4 @@ public class Producto {
         return "[" + codigo + "]" + nombre + " - $" + String.format("%.2f", precio);
 
     }
-
 }

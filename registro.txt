@@ -1,2 +1,9 @@
 2025/07/07 20:07:29 - Vio el catalogo de productos.
 2025/07/07 20:07:31 - Cerro el programa.
+2025/07/08 07:21:56 - Vio el catalogo de productos.
+2025/07/08 07:22:15 - Vio el catalogo de productos.
+2025/07/08 07:22:22 - Agrego al carrito: Gaseosa
+2025/07/08 07:22:24 - Vio el catalogo de productos.
+2025/07/08 07:22:26 - Agrego al carrito: Fideos
+2025/07/08 07:43:08 - Finalizo compra. Total: $16,50
+2025/07/08 07:43:10 - Cerro el programa.
